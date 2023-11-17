@@ -18,3 +18,9 @@ builder.Services.Configure<RazorViewEngineOptions>(options => {
 - ViewData
 - ViewBag
 - TempData
+## Area 
+- la ten dung de routing
+- la cau truc thu muc chua mvc
+- thiet lap Area cho controller bảng ``````[Area("AreaName")]``````
+- tao ra cau truc thu muc 
+dotnet aspnet-codegenerator area Product
